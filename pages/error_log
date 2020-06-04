@@ -1,0 +1,8 @@
+[24-Nov-2019 16:14:52 Europe/Vilnius] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /var/home/bisscmco/public_html/pages/status.php:131
+Stack trace:
+#0 {main}
+  thrown in /var/home/bisscmco/public_html/pages/status.php on line 131
+[26-Nov-2019 16:38:41 Europe/Vilnius] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /var/home/bisscmco/public_html/pages/status.php:131
+Stack trace:
+#0 {main}
+  thrown in /var/home/bisscmco/public_html/pages/status.php on line 131
